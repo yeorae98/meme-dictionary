@@ -1,6 +1,6 @@
 {
   "name": "meme-encyclopedia",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "밈 백과사전 - 연도별 월별 밈 아카이브",
   "scripts": {
     "dev": "next dev",
